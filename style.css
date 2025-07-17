@@ -53,6 +53,21 @@ label{
     .btn:hover{
         background: transparent;
     }
+
+    .btn2{
+        background-color: pink;
+        color: rgb(48, 46, 46);
+        margin-top: 20px;
+        height: 30px;
+        border: 1px solid rgb(108, 44, 44);
+        font-size: 15px;
+    }
+
+    .btn2:hover{
+        background-color: rgb(140, 51, 51);
+        color: white;
+        cursor: pointer;
+    }
 #output{
     background-color: rgba(195, 44, 44, 0.427);
     margin-top: 20px;
