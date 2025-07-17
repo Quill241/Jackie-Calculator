@@ -1,6 +1,6 @@
 
 
-const savebtn = document.getElementById(save-num)
+// const savebtn = document.getElementById(save-num)
 
 function add() {
     const firstNum = document.getElementById("num1")
@@ -87,4 +87,8 @@ function modulo() {
     output.textContent = finalAnswer.toString()
     return finalAnswer
 
+}
+
+function darkMode() {
+    document.body.style.background = '#a04848ba'
 }
