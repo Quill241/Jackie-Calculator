@@ -88,3 +88,7 @@ function modulo() {
     return finalAnswer
 
 }
+
+function darkMode() {
+    document.body.style.background = 'pink'
+}
